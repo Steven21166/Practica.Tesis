@@ -1,0 +1,6 @@
+@Practica.Tesis.ApiPractica_HostAddress = http://localhost:5127
+
+GET {{Practica.Tesis.ApiPractica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
